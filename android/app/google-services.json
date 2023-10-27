@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213733382234",
+    "project_id": "computacion-movil2",
+    "storage_bucket": "computacion-movil2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213733382234:android:4ff9a3f7245a9eb26e2063",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGDJa5ZdhdQkbo7RC3WpbkkMAfB-kPfbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
